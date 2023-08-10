@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "nombre": "jordan1",
+        "precio":50,
+        "img":" https://f.fcdn.app/imgs/4b617a/www.zooko.com.uy/zoo/c202/webp/catalogo/NKDX4332-800-1/460x460/nike-air-jordan-1-mid-se-beige.jpg",
+        "cantidad": 1
+
+    },
+    {
+        "id":2,
+        "nombre":"jordan 3",
+        "precio":100,
+        "img":"https://f.fcdn.app/imgs/5b14e7/www.zooko.com.uy/zoo/62fc/original/catalogo/NKCT8532-105-1/1920-1200/air-jordan-3-retro-white.jpg",
+        "cantidad": 1
+
+    },
+    {
+        "id": 3,
+        "nombre": "jordan4",
+        "precio": 120,
+        "img": "https://f.fcdn.app/imgs/3088f0/www.zooko.com.uy/zoo/8cc2/original/catalogo/NKDH6927-140-1/460x460/air-jordan-4-retro-dk-white.jpg",
+        "cantidad": 1
+    },
+    {
+        "id":4,
+        "nombre": "dunk",
+        "precio": 50,
+        "img": "https://f.fcdn.app/imgs/b671f4/www.zooko.com.uy/zoo/d450/webp/catalogo/NKDV0831-002-1/460x460/nike-dunk-low-black.jpg",
+        "cantidad": 1
+    }
+]
